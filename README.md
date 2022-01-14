@@ -14,3 +14,5 @@ Who died?
 4. Does the origin of departure have any effect on mortality rates? And why?
 5. Does age affect the mortality rate? And why?
 6. Does the position you have affect the death rate? And why?
+
+To get into the code, please open   --- Titanic For Port.ipynb ---
